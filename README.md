@@ -22,16 +22,18 @@ Profit.
 
 ##BUSINESS QUESTIONS:
 Which Region generates the highest revenue? 
-The region that generated the highest revenue is the East with a total revenue generation.
-What are the top 10  most profitable products? 
-The top 10 most Profitable Products?
+
+What are the top 10  most profitable products?
+
+Are some product categories more popular in certain regions?
+
 Which customers contribute the most to the total revenue? 
 
 ##SUMMARY:
 After looking at all the analysis done using Pivot table, charts, Filters and slicers we came to the conclusion that the East region Generated the highest revenue, had the  top most profitable products, popular products also the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
 
 ##Conclusion::
-After looking at all the analysis done using Pivot table, charts, Filters and slicers we came to the conclusion that the East region Generated the highest revenue, had the  top most profitable products, popular products and the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
+After looking at all the analysis done using Pivot table, charts, Filters and slicers we came to the conclusion that the East region generated the highest revenue, had the  top most profitable products, popular products and the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
 
 
 
