@@ -1,0 +1,2 @@
+# Products-Sales-Data-Set-2023-2024-Visualization
+This Dataset is a yearly Product Sales Report of a Retail company. It's an external data  sourced from kaggle.com. The Analysis aims to visualize product sales in various regions using Excel tools such as: Pivot table, Power Pivot, Charts, Visualization and Power Bi, to arrive  at a logical conclusion to our analysis as well as actionable insights.
