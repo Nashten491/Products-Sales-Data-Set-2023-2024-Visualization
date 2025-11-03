@@ -14,13 +14,20 @@ Useful insights generated as a result this analysis stands to benefit businesses
 ##FEATURES:
 
 Customer Name
-Product names,
-The Region
-Revenue
-Category
-Country
-City
-Quantity
+Product names;
+
+The Region;
+
+Revenue;
+
+Category;
+
+Country;
+
+City;
+
+Quantity;
+
 Profit.
 
 ##BUSINESS QUESTIONS:
@@ -39,7 +46,7 @@ After looking at all the analysis done using Pivot table, charts, Filters and sl
 
 ##Conclusion:
 
-After looking at all the analysis done using Pivot table, charts, Filters and slicers we came to the conclusion that the East region generated the highest revenue, had the  top most profitable products, popular products and the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
+More efforts should be  concentrated towards the South Region and the Central Region to bring about equitable distribution of Products and revenue generat
 
 
 
