@@ -12,6 +12,7 @@ You can reach me via email @ Nashten33@gmail.com
 Useful insights generated as a result this analysis stands to benefit businesses, Financial stakeholders, Employers of labour, and beginners alike. In a world where everything has gone digital this analysis will bring about, effiecient and speedy information gathering at the click of a button thus avoiding long hours of deliberations that can easily be obtained virtually and remotely.
 
 ##FEATURES:
+
 Customer Name
 Product names,
 The Region
@@ -36,7 +37,8 @@ Which customers contribute the most to the total revenue?
 
 After looking at all the analysis done using Pivot table, charts, Filters and slicers we came to the conclusion that the East region Generated the highest revenue, had the  top most profitable products, popular products also the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
 
-##Conclusion::
+##Conclusion:
+
 After looking at all the analysis done using Pivot table, charts, Filters and slicers we came to the conclusion that the East region generated the highest revenue, had the  top most profitable products, popular products and the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
 
 
