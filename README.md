@@ -49,7 +49,7 @@ After looking at all the analysis done using Pivot table, charts, Filters and sl
 
 ##Conclusion:
 
-More efforts should be  concentrated towards the South Region and the Central Region to bring about equitable distribution of Products and revenue generat
+More efforts should be  concentrated towards the South Region and the Central Region to bring about equitable distribution of Products and revenue generation.
 
 
 
