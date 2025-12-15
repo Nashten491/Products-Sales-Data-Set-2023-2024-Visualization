@@ -3,9 +3,9 @@
 ![Image](https://github.com/user-attachments/assets/5f50bdaf-1075-459e-8a11-21b2e5e9414f)
  
 ## INTRODUCTION:
-This Dataset is a yearly Product Sales Report of a Retail company. It's an external data  sourced from kaggle.com. The Analysis aims to visualize product sales in various regions using Excel tools such as: Pivot table, Power Pivot, Charts, Visualization and Power Bi, to arrive  at a logical conclusion to our analysis as well as actionable insights.
-Hi, I am Nancy Shikaan Esq, a Data Analyst, Legal Practitioner and Chef.
-I am interested in Data Analysis, Visualization, Charts and Satistical Analysis.
+This Dataset is a yearly Product Sales Report of a Retail company. It's an external data  sourced from kaggle.com. The Analysis aims to visualize product sales in various regions using Excel tools such as: Pivot table, Pivot Charts, Filters, Slicers and  Visualization using Power Bi, to arrive  at a logical conclusion to our analysis as well as actionable insights.
+Hi, I am Nancy Shikaan Esq, a Data Analyst/ Legal Practitioner.
+I am interested in Data Analysis, using Micro Soft Excel tools such as: Pivot Tables, Pivot Charts, filters, Slicers, and Visualization using Power Bi
 I am looking to collaborate on Projects relating to data analysis using Micro Soft Excel.
 You can reach me via email @ Nashten33@gmail.com
 
@@ -44,17 +44,17 @@ Are some product categories more popular in certain regions?
 Which customers contribute the most to the total revenue?
 
 ## ANALYSIS AND FINDINGS:
-Question 1: Which Region gerated the highest revenue?
+Question 1: Which Region generated the highest revenue?
 
-Method; Pivot Table, Column Chart, Filter and Slicer.
+Method; Pivot Table, Pivot Chart, Filter, Slicer, and Visualization using Power Bi
 
-Findings: the Column chart showed the East region generated the highest revenue.
+Findings: the Pivot chart showed the East region generated the highest revenue.
 
 Question 2: What are the top 10 Most profitable Products?
 
-Method;Pivot Table, Column Chart, Filter and Slicer.
+Method; Pivot Table, Pivot Chart, Filter, Slicer, and Visualization using Power Bi
 
-Findings:The Column Chart, shows clearly the Top 10 most profitable products as follows:
+Findings:The Pivot Chart, shows clearly the Top 10 most profitable products as follows:
 
 - APPLE IPHONE 14
 - APPLE WATCH
@@ -69,23 +69,22 @@ Findings:The Column Chart, shows clearly the Top 10 most profitable products as 
 
 Question 3: Are some Products Categories more popular in certain Regions?
 
-Method; Pivot Table, Column Chart, Filter and Slicer.
+Method; Pivot Table, Pivot Chart, Filter, Slicer, and Visualization using Power Bi
 
-Findings: the Column chart indicates that in the four Regions under Home and Furniture; the Tempur Pedic Mattress was very popular, while under Eletronics Mack Book Air was popular in only the Centre, East and West, Apple Watch was the only Electronic that was popular in the South. Under Clothing and Apparel Nike Airforce 1  was very popular amongst the four Regions. finally under Accessories Power back was very popular in the Centre and East alone, Sunglasses was more popular in the South and Phone Case was very popular in the West.
+Findings: the Pivot chart shows that in the four Regions under Home and Furniture; the Tempur Pedic Mattress was very popular, while under Eletronics Mack Book Air was popular in only the Centre, East and West, Apple Watch was the only Electronic that was popular in the South. Under Clothing and Apparel Nike Airforce 1  was very popular amongst the four Regions. finally under Accessories Power back was very popular in the Centre and East alone, Sunglasses was more popular in the South and Phone Case was very popular in the West.
 
 Question 4: Which Customers contribute the Moat to the Total Revenue?
 
-Method: Pivot Table, Colunm Chart, Filter and Slicer.
-
-Findings: The Chart shows clearly that the Customers that contributed most to the total Revenue was largely from the East, followed by the Centre, West and lastly the South.
+Method: Pivot Table, Pivot Chart, Filter, Slicer, and Visualization using Power Bi
+Findings: The Pivot Chart shows clearly that the Customers that contributed most to the total Revenue were largely from the East, followed by the Centre, West and lastly the South.
   
 ##SUMMARY:
 
-After looking at all the analysis done using Pivot table, charts, Filters and slicers we came to the conclusion that the East region Generated the highest revenue, had the  top most profitable products, popular products also the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
+After looking at all the analysis done using Pivot table, charts, Filters and slicers, and Visualization using Power Bi we came to the conclusion that the East region Generated the highest revenue, had the  top most profitable products, popular products also the most Customers contributing to the total revenue in the Region; followed by the West, Centre and South Respectively.
 
 ##Conclusion:
 
-More efforts should be  concentrated towards the South Region and the Central Region to bring about equitable distribution of Products and revenue generation.
+More efforts should be concentrated towards the South Region and the Central Region to bring about equitable distribution of Products and revenue generation.
 
 
 
