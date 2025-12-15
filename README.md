@@ -71,7 +71,7 @@ Question 3: Are some Products Categories more popular in certain Regions?
 
 Method; Pivot Table, Pivot Chart, Filter, Slicer, and Visualization using Power Bi
 
-Findings: the Pivot chart shows that in the four Regions under Home and Furniture; the Tempur Pedic Mattress was very popular, while under Eletronics Mack Book Air was popular in only the Centre, East and West, Apple Watch was the only Electronic that was popular in the South. Under Clothing and Apparel Nike Airforce 1  was very popular amongst the four Regions. finally under Accessories Power back was very popular in the Centre and East alone, Sunglasses was more popular in the South and Phone Case was very popular in the West.
+Findings: the Pivot chart shows that in the four Regions under Home and Furniture; the Tempur Pedic Mattress was very popular, while under Eletronics Mack Book Air was popular in only the Centre, East and West, Apple Watch was the only Electronic that was popular in the South. Under Clothing and Apparel Nike Airforce 1  was very popular amongst the four Regions. finally under Accessories Power bank was very popular in the Centre and East alone, Sunglasses was more popular in the South and Phone Case was very popular in the West.
 
 Question 4: Which Customers contribute the Moat to the Total Revenue?
 
