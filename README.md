@@ -45,12 +45,17 @@ Which customers contribute the most to the total revenue?
 
 ## ANALYSIS AND FINDINGS:
 Question 1: Which Region gerated the highest revenue?
+
 Method; Pivot Table, Column Chart, Filter and Slicer.
+
 Findings: the Column chart showed the East region generated the highest revenue.
 
 Question 2: What are the top 10 Most profitable Products?
+
 Method;Pivot Table, Column Chart, Filter and Slicer.
+
 Findings:The Column Chart, shows clearly the Top 10 most profitable products as follows:
+
 - APPLE IPHONE 14
 - APPLE WATCH
 - BROOKLINEN SHEETS
@@ -62,12 +67,16 @@ Findings:The Column Chart, shows clearly the Top 10 most profitable products as 
 - STORAGE RACK
 - TEMPUR- PEDIC MATTRESS
 
-Question 3: Are some Products Categories more popular in certain Regions? 
+Question 3: Are some Products Categories more popular in certain Regions?
+
 Method; Pivot Table, Column Chart, Filter and Slicer.
+
 Findings: the Column chart indicates that in the four Regions under Home and Furniture; the Tempur Pedic Mattress was very popular, while under Eletronics Mack Book Air was popular in only the Centre, East and West, Apple Watch was the only Electronic that was popular in the South. Under Clothing and Apparel Nike Airforce 1  was very popular amongst the four Regions. finally under Accessories Power back was very popular in the Centre and East alone, Sunglasses was more popular in the South and Phone Case was very popular in the West.
 
 Question 4: Which Customers contribute the Moat to the Total Revenue?
+
 Method: Pivot Table, Colunm Chart, Filter and Slicer.
+
 Findings: The Chart shows clearly that the Customers that contributed most to the total Revenue was largely from the East, followed by the Centre, West and lastly the South.
   
 ##SUMMARY:
